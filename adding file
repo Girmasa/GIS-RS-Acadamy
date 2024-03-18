@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title> GIS & Remote sensing Acadamy </title>
+	</head>
+	<body>
+ <!-- this is important to put acoment-->
+		<h1 style="color:darkgreen; font-size:72;"> wellcaome to GIS & Remote Sensing acadamy </h1>
+		<h3> know continue upto heading 6</h3>
+		<img src="GIS.jpg" alt="This is logo" width="200px" higt="300px"> </img>
+		<p style="color: darkolivegreen; font-size:20px;"> defnetion of GIS & RS </p>
+		<p style="color:blue"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa nobis mollitia aliquid voluptate voluptatibus, error ipsum vel officiis minus eos deserunt dolore alias placeat voluptatum enim dolorum eius quibusdam molestiae! </p>
+		<ul>
+			<li> coffee </li>
+			<li> milk </li>
+			<li> bred </li>
+			<li> tea </li>
+		</ul>
+		<ol>
+			<li> coffee </li>
+			<li> milk </li>
+			<li> bred </li>
+			<li> tea </li>
+		</ol>
+</body>
+</html>
